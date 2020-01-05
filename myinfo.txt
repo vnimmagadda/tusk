@@ -2,3 +2,5 @@ First Name: Vishnu Kiran
 Last Name: Nimmagadda
 DOB:1972-DEC-10
 Place of Birth: Vizianagaram, AP, India
+Current Job : Hexaware Technologies Ltd., India
+DOJ: 2000-NOV-13
